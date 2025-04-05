@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+header {
+  text-align: center;
+  padding: 20px;
+}
+img {
+  max-width: 100px;
+  height: auto;
+}
+nav {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 10px;
+}
+nav li {
+  display: inline;
+  margin: 15px;
+}
+main {
+  text-align: center;
+  padding: 20px;
+}
+section {
+  text-align: center;
+  padding: 10px;
+}
